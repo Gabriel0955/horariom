@@ -1,0 +1,80 @@
+
+body{
+    background-color: black;
+    background-image:url("https://www.lahiguera.net/musicalia/artistas/karol_g/disco/12631/karol_g_manana_sera_bonito-portada.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+.lo{
+    background-image:url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/karol-g-63fe845c42284.jpg?crop=1.00xw:0.668xh;0,0.0919xh&resize=1200:*");
+}
+.wa{
+    background-image:url("https://media.gettyimages.com/id/1392054757/es/foto/karol-g-performs-onstage-at-the-coachella-stage-during-the-2022-coachella-valley-music-and.jpg?s=612x612&w=gi&k=20&c=-gvC0Qpe2XB5fFNeO5ZLi_vJw6oYnPGOS2VpMNAqBeM=");
+}
+.what{
+    background-image:url("https://img.lalr.co/cms/2020/02/16101843/karol.jpg?size=xl");
+}
+.do{
+    background-image:url("https://elcomercio.pe/resizer/ztu3hajVgYSTTvjAwtxmf7DyHYQ=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/465DK52FNZFALBDBLP7NRX2JKA.jpg");
+}
+.de{
+    background-image:url("https://www.semana.com/resizer/bNZM5q_Rx-lKzRzYCV8PeDrdPwA=/fit-in/768x0/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/B33T2PDUMZGJNDPLPCDBR6PEAY.jpg");
+}
+.titulo{
+    display: block;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom:-10px;
+    color:red;
+    text-shadow: 2px 3px 5px rgb(4, 226, 255);
+    font-size: 45px;
+}
+h2{
+    margin-top: 7%;
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: px;
+    font-size: 30px;
+    color: orangered;
+    text-shadow: 1px 2px 5px rgb(0, 255, 98);
+}
+.padre{
+    margin-top: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    height: 55px;
+    width: 155px;
+    font-size: 30px;
+    background-color: rgb(255, 0, 200);
+    color: rgb(255, 6, 6);
+    border-radius: 5rem;
+    border: 2px solid blue;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 30px;
+}
+button:hover{
+    color: black;
+    background-color: aliceblue;
+    transition: 1s;
+}
+a{
+    text-decoration: none;
+}
+.enlace{
+    color:rgb(236, 233, 16);
+}
+.dia{
+    margin-bottom: 30px;
+}
